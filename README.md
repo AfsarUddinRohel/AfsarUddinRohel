@@ -18,13 +18,13 @@
 ![VS Code](https://img.shields.io/badge/-VS_Code-333333?style=flat&logo=visual-studio-code)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=AfsarUddinRohel&show_icons=true&theme=radical)
 
 ## 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/AfsarUddinRohel)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter)](https://twitter.com/AfsarUddinRohel)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:youremail@gmail.com)
 
 ## 🏆 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repositoryname&theme=radical)](https://github.com/yourusername/repositoryname)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repositoryname&theme=radical)](https://github.com/yourusername/repositoryname)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfsarUddinRohel&repo=repositoryname&theme=radical)](https://github.com/AfsarUddinRohel/repositoryname)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfsarUddinRohel&repo=repositoryname&theme=radical)](https://github.com/AfsarUddinRohel/repositoryname)
