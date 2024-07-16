@@ -25,5 +25,5 @@
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail)](mailto:youremail@gmail.com)
 
 ## 🏆 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfsarUddinRohel&repo=repositoryname&theme=radical)](https://github.com/AfsarUddinRohel/Emcee-Mgmt)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfsarUddinRohel&repo=repositoryname&theme=radical)](https://github.com/AfsarUddinRohel/Emcee-Mgmt)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfsarUddinRohel&repo=repositoryname&theme=radical)](https://github.com/AfsarUddinRohel/Emcee-Mgmt/EmceeMgmt_Web)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AfsarUddinRohel&repo=repositoryname&theme=radical)](https://github.com/AfsarUddinRohel/Emcee-Mgmt/EmceeMgmt_Web)
